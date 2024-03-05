@@ -1,0 +1,5 @@
+name = "pixgen"
+compatibility_date = "2023-12-01"
+
+[ai]
+binding = "AI"
